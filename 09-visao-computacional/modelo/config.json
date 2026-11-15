@@ -1,0 +1,8 @@
+{
+  "limiar": 0.7,
+  "arquitetura": "mobilenet_v3_small",
+  "entrada": [
+    224,
+    224
+  ]
+}

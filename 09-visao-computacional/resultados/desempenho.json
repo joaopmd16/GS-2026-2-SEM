@@ -1,0 +1,42 @@
+{
+  "equipamento": {
+    "cpu": "Intel64 Family 6 Model 158 Stepping 13, GenuineIntel",
+    "so": "Windows-10-10.0.19045-SP0",
+    "threads_torch": 6,
+    "gpu": "não usada (CPU)",
+    "torch": "2.15.0+cpu"
+  },
+  "recorte_227x227_sem_gradcam": {
+    "latencia_media_ms": 10.7,
+    "p95_ms": 11.1,
+    "fps": 93.7
+  },
+  "recorte_227x227_com_gradcam": {
+    "latencia_media_ms": 10.7,
+    "p95_ms": 11.1,
+    "fps": 93.6
+  },
+  "quadro_681x454_sem_gradcam": {
+    "latencia_media_ms": 33.4,
+    "p95_ms": 34.9,
+    "fps": 30.0
+  },
+  "quadro_681x454_com_gradcam": {
+    "latencia_media_ms": 72.5,
+    "p95_ms": 83.9,
+    "fps": 13.8
+  },
+  "lote_32_recortes_224": {
+    "latencia_media_ms": 181.4,
+    "p95_ms": 192.1,
+    "fps": 5.5,
+    "recortes_por_s": 176.0
+  },
+  "ronda_video": {
+    "quadros": 20,
+    "latencia_media_ms": 71.6,
+    "fps": 13.2,
+    "acerto_por_quadro": 1.0,
+    "ocorrencias": 5
+  }
+}
