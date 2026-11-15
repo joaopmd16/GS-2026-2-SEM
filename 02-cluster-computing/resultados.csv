@@ -1,0 +1,10 @@
+indicador,cenario_A_2workers,cenario_B_4workers,unidade
+total_simulated_time,,,s
+tarefas_worker_1,,,tarefas
+tarefas_worker_2,,,tarefas
+tarefas_worker_3,-,,tarefas
+tarefas_worker_4,-,,tarefas
+mflop_processado_worker_1,,,MFlop
+mflop_processado_worker_2,,,MFlop
+mflop_processado_worker_3,-,,MFlop
+mflop_processado_worker_4,-,,MFlop
