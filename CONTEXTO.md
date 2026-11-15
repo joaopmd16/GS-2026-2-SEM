@@ -21,7 +21,7 @@ ODS principais: **ODS 11** (cidades sustentáveis), **ODS 10** (redução das de
 | `09-visao-computacional` | Visão Computacional | Detecta fissuras/buracos em fotos enviadas pelo cidadão → gera ocorrência com confiança |
 | `07-iot-ouviai` | IoT (OuviAí) | Reconhece sons (campainha, batida, ambiente) no celular via Edge Impulse → alerta visual para surdos |
 | `05-generative-ai` | Generative AI | Assistente conversacional (RAG) que orienta o cidadão sobre serviços/ocorrências |
-| `08-nlp` | NLP | Ferramenta que sobe documentos da prefeitura, limpa e gera 3 corpus (conversacional, Q&A, texto puro) para fine-tuning de LLM pequena (usada pelo assistente) |
+| `08-nlp` | NLP | Assistente de VOZ PT-BR (Whisper STT → LLM com memória + base de conhecimento → TTS) para cidadãos com dificuldade de ler/digitar; o pipeline de corpus (conversacional/Q&A/texto puro) alimenta a base de conhecimento |
 | `01-rpa-ia` | RPA + IA | Automatiza o fluxo de chamados: lê ocorrências (Pandas/SQL), scraping, APIs, e-mail automático para a prefeitura |
 | `04-frontend` | Front End (Streamlit/Gradio) | Interface única que integra os módulos (upload de foto, chat, painel de ocorrências) |
 | `02-cluster-computing` | Cluster Computing | Simula no iSPD a carga de processamento de IA da plataforma (ex.: visão + LLM em escala) |
