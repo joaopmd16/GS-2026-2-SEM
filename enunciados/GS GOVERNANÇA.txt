@@ -1,0 +1,38 @@
+ATIVIDADE INDIVIDUAL, EM DUPLAS OU TRIOS.
+
+Grave um vídeo de até 7 minutos demonstrando a integração e o funcionamento de todos os módulos da Global Solution (GS), aplicados ao contexto da disciplina de Governança em IA e Business Analytics.
+
+Entregáveis
+Vídeo: De 5 a 7 minutos de duração, demonstrando a integração. Deve ser publicado no YouTube como "Não Listado". Leitura massiva de documento acarretará em decréscimo de pontos na nota.
+
+GitHub: Repositório contendo todos os itens desenvolvidos e entregues.
+
+Documento (Formato ABNT/FIAP): Relatório sintetizando a integração, estruturado com os seguintes elementos:
+
+Capa e Folha de Rosto (com o nome do integrante).
+
+Listas de ativos (quadros, figuras, etc.) e Sumário.
+
+Introdução e Conclusão.
+
+Desenvolvimento: Deve conter um tópico para cada disciplina, finalizando com a disciplina de Governança, que demonstrará quais materiais foram ou não integrados.
+
+Tópico "Links": Espaço dedicado para os links do vídeo e do repositório do GitHub.
+
+Limite: De 10 a 15 páginas.
+
+Nota: Não utilize IA para gerar a conclusão, apenas para revisar o texto.
+
+--- ATENÇÃO ---
+Itens estruturais serão avaliados. A não aderência ao tempo do vídeo, falhas na estruturação do documento ou o uso excessivo de IA poderão resultar em desconto na nota.
+
+Jargões de IA (como hipérboles, travessões excessivos e uso exagerado de adjetivos) poderão influenciar negativamente a avaliação. Revise o documento atentamente antes do envio.
+
+Plágio: Vídeos e documentos iguais/verossímil poderão ser considerados plágio, e as notas não serão lançadas. Cada caso será analisado individualmente. 
+
+--- BAREMA ---
+Documentação: 4 Pontos. Tópico Conclusão deverá ser redigido pelo próprio aluno/grupo. Caso seja constatado que foi desenvolvido totalmente com IA (revisões de texto estão autorizadas), a nota do documento valerá metade. 
+
+Vídeo: 3 Pontos. Excedentes de tempo de vídeo poderá afetar negativamente a nota, então tente delimitar bem o tempo e se organizar por um roteiro. Caso haja leitura de documento massiva, a nota passará a valer metade.
+
+GitHub: 3 Pontos. Caso o Git seja comitado após a entregá, poderá haver decréscimo de nota.

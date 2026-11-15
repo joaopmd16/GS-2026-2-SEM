@@ -1,0 +1,7 @@
+Avaliar como a computação quântica ampliaria a solução CitizenTech do grupo. Para isso, o grupo deve:
+1.Identificar um gargalo real do protótipo, ou seja, um ponto em que a IA clássica fica lenta, cara, imprecisa ou insegura à medida que o número de cidadãos atendidos cresce. 
+2.Escolher uma capacidade quântica que atacaria esse gargalo: otimização, simulação, busca em grandes bases ou criptografia pós-quântica (PQC). 
+3.Construir um roadmap realista mostrando o que a IA clássica entrega hoje, o que o quântico agregará no futuro e o benefício esperado para o público afetado. 
+4.Analisar ética, LGPD e ODS ao longo de todo o roadmap.
+
+Não é preciso programar um algoritmo quântico. O foco está no raciocínio: por que esse gargalo, por que essa capacidade e quando ela fará sentido de forma realista.

@@ -1,0 +1,3 @@
+id,tipo,origem,descricao,confianca,latitude,longitude,bairro,prioridade,status,criado_em
+OC-0001,buraco,visao,Buraco na via,0.91,-23.5505,-46.6333,Se,alta,aberta,2026-11-10T09:00:00
+OC-0002,fissura,visao,Fissura em muro,0.78,-23.5614,-46.6559,Consolacao,media,encaminhada,2026-11-11T14:30:00
