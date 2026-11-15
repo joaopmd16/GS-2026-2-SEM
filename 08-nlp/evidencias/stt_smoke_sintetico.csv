@@ -1,0 +1,2 @@
+modelo,device,amostras,origem,wer,s_por_audio
+faster-whisper-tiny,cpu,3,edge-tts AntonioNeural (sintetico),0.0,0.39

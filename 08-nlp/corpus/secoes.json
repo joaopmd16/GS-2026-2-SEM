@@ -1,0 +1,170 @@
+[
+ {
+  "servico": "Bueiro entupido e alagamento",
+  "topico": "O que é",
+  "texto": "Limpeza de bueiros, bocas de lobo e galerias que causam alagamento.",
+  "fonte": "alagamento.md"
+ },
+ {
+  "servico": "Bueiro entupido e alagamento",
+  "topico": "Como solicitar",
+  "texto": "Telefone 156 ou aplicativo CitizenTech, com o endereço e uma foto se possível.",
+  "fonte": "alagamento.md"
+ },
+ {
+  "servico": "Bueiro entupido e alagamento",
+  "topico": "Prazo",
+  "texto": "A limpeza é feita em até 5 dias úteis.",
+  "fonte": "alagamento.md"
+ },
+ {
+  "servico": "Bueiro entupido e alagamento",
+  "topico": "Emergência",
+  "texto": "Em caso de enchente com risco à vida, saia do local e ligue 199 (Defesa Civil) ou 193 (Bombeiros).",
+  "fonte": "alagamento.md"
+ },
+ {
+  "servico": "Atendimento acessível da Central 156",
+  "topico": "Canais acessíveis",
+  "texto": "A Central 156 atende por telefone de segunda a sábado, das 7h às 20h. Pessoas surdas podem usar o atendimento em Libras por videochamada no aplicativo CitizenTech. Pessoas com deficiência visual podem usar este assistente de voz.",
+  "fonte": "atendimento_acessivel.md"
+ },
+ {
+  "servico": "Atendimento acessível da Central 156",
+  "topico": "Protocolo",
+  "texto": "Todo chamado gera um protocolo. Para consultar, diga ou digite o número do protocolo, por exemplo OC-0001.",
+  "fonte": "atendimento_acessivel.md"
+ },
+ {
+  "servico": "Atendimento acessível da Central 156",
+  "topico": "Dados pessoais",
+  "texto": "A Prefeitura trata os dados conforme a LGPD (Lei 13.709 de 2018). O cidadão pode pedir a exclusão dos seus dados pelo 156.",
+  "fonte": "atendimento_acessivel.md"
+ },
+ {
+  "servico": "Reparo de buraco na via pública",
+  "topico": "Descrição",
+  "texto": "A Prefeitura faz o reparo de buracos em ruas e avenidas municipais (operação tapa-buraco).",
+  "fonte": "buraco_na_rua.md"
+ },
+ {
+  "servico": "Reparo de buraco na via pública",
+  "topico": "Como solicitar",
+  "texto": "O cidadão pode abrir o chamado pelo telefone 156, pelo aplicativo CitizenTech ou presencialmente na Subprefeitura do seu bairro. É preciso informar o endereço completo, um ponto de referência e, se possível, uma foto.",
+  "fonte": "buraco_na_rua.md"
+ },
+ {
+  "servico": "Reparo de buraco na via pública",
+  "topico": "Prazo",
+  "texto": "O prazo de atendimento é de até 10 dias úteis. Buracos que oferecem risco de acidente são classificados como prioridade alta e atendidos em até 72 horas.",
+  "fonte": "buraco_na_rua.md"
+ },
+ {
+  "servico": "Reparo de buraco na via pública",
+  "topico": "Acompanhamento",
+  "texto": "Depois de abrir o chamado, o cidadão recebe um número de protocolo no formato OC-0001 e pode acompanhar o status: aberta, encaminhada, em inspeção ou resolvida.",
+  "fonte": "buraco_na_rua.md"
+ },
+ {
+  "servico": "Reparo de buraco na via pública",
+  "topico": "Custo",
+  "texto": "O serviço é gratuito.",
+  "fonte": "buraco_na_rua.md"
+ },
+ {
+  "servico": "Calçada danificada e acessibilidade",
+  "topico": "Descrição",
+  "texto": "Fissuras, desníveis e calçadas quebradas dificultam a passagem de pessoas com deficiência, pessoas idosas e carrinhos de bebê.",
+  "fonte": "calcada_acessivel.md"
+ },
+ {
+  "servico": "Calçada danificada e acessibilidade",
+  "topico": "Responsabilidade",
+  "texto": "A conservação da calçada é responsabilidade do proprietário do imóvel em frente. Quando o dano é causado por raiz de árvore pública ou por obra da Prefeitura, o reparo é feito pela Prefeitura.",
+  "fonte": "calcada_acessivel.md"
+ },
+ {
+  "servico": "Calçada danificada e acessibilidade",
+  "topico": "Como solicitar",
+  "texto": "Ligue 156 ou use o aplicativo CitizenTech e informe o endereço. Para rampas de acessibilidade em esquinas, peça o serviço \"rampa de acessibilidade\".",
+  "fonte": "calcada_acessivel.md"
+ },
+ {
+  "servico": "Calçada danificada e acessibilidade",
+  "topico": "Prazo",
+  "texto": "A vistoria é feita em até 15 dias úteis. O reparo de calçada pela Prefeitura leva até 30 dias.",
+  "fonte": "calcada_acessivel.md"
+ },
+ {
+  "servico": "Iluminação pública (lâmpada apagada)",
+  "topico": "O que é",
+  "texto": "troca de lâmpadas queimadas, reparo de postes e lâmpadas acesas durante o dia.",
+  "fonte": "iluminacao.txt"
+ },
+ {
+  "servico": "Iluminação pública (lâmpada apagada)",
+  "topico": "Como solicitar",
+  "texto": "telefone 156 ou aplicativo CitizenTech. Informe o endereço e o número do poste, que fica em uma placa no próprio poste.",
+  "fonte": "iluminacao.txt"
+ },
+ {
+  "servico": "Iluminação pública (lâmpada apagada)",
+  "topico": "Prazo",
+  "texto": "até 3 dias úteis para troca de lâmpada. Poste caído ou fio solto é emergência: ligue para a concessionária de energia ou para a Defesa Civil no 199.",
+  "fonte": "iluminacao.txt"
+ },
+ {
+  "servico": "Iluminação pública (lâmpada apagada)",
+  "topico": "Custo",
+  "texto": "gratuito.",
+  "fonte": "iluminacao.txt"
+ },
+ {
+  "servico": "Coleta de entulho e descarte irregular de lixo",
+  "topico": "O que é",
+  "texto": "remoção de lixo e entulho jogados em terrenos, calçadas e ruas.",
+  "fonte": "lixo_entulho.txt"
+ },
+ {
+  "servico": "Coleta de entulho e descarte irregular de lixo",
+  "topico": "Como solicitar",
+  "texto": "telefone 156 ou aplicativo CitizenTech, informando o endereço. Para pequenos volumes de entulho (até 1 metro cúbico), o cidadão pode levar gratuitamente a um Ecoponto.",
+  "fonte": "lixo_entulho.txt"
+ },
+ {
+  "servico": "Coleta de entulho e descarte irregular de lixo",
+  "topico": "Prazo",
+  "texto": "até 7 dias úteis.",
+  "fonte": "lixo_entulho.txt"
+ },
+ {
+  "servico": "Coleta de entulho e descarte irregular de lixo",
+  "topico": "Denúncia",
+  "texto": "o descarte irregular pode ser denunciado de forma anônima pelo 156.",
+  "fonte": "lixo_entulho.txt"
+ },
+ {
+  "servico": "Poda e remoção de árvores",
+  "topico": "Descrição",
+  "texto": "A Prefeitura faz a poda de árvores em calçadas e praças públicas.",
+  "fonte": "poda_arvore.html"
+ },
+ {
+  "servico": "Poda e remoção de árvores",
+  "topico": "Como solicitar",
+  "texto": "Pelo telefone 156 ou pelo aplicativo CitizenTech. Informe o endereço e se a árvore está encostando em fios.",
+  "fonte": "poda_arvore.html"
+ },
+ {
+  "servico": "Poda e remoção de árvores",
+  "topico": "Prazo",
+  "texto": "A vistoria técnica acontece em até 20 dias. Árvore com risco de queda é emergência: ligue 199 para a Defesa Civil.",
+  "fonte": "poda_arvore.html"
+ },
+ {
+  "servico": "Poda e remoção de árvores",
+  "topico": "Atenção",
+  "texto": "é proibido podar árvores em via pública por conta própria; a multa pode chegar a R$ 1.500,00.",
+  "fonte": "poda_arvore.html"
+ }
+]
