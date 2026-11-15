@@ -1,0 +1,49 @@
+{
+  "dataset": "Concrete Crack Images for Classification (Özgenel 2019) — amostra",
+  "n": {
+    "treino": 4200,
+    "validacao": 900,
+    "teste": 900
+  },
+  "limiar": 0.7,
+  "teste": {
+    "acuracia": 0.9977777777777778,
+    "precisao": 0.995575221238938,
+    "recall": 1.0,
+    "f1": 0.9977827050997783,
+    "roc_auc": 1.0,
+    "matriz_confusao": [
+      [
+        448,
+        2
+      ],
+      [
+        0,
+        450
+      ]
+    ]
+  },
+  "teste_limiar_0.5": {
+    "precisao": 0.9933774834437086,
+    "recall": 1.0,
+    "f1": 0.9966777408637874
+  },
+  "historico": [
+    {
+      "epoca": 1,
+      "perda_treino": 0.05995187735473294,
+      "f1_validacao": 0.9868421052631579
+    },
+    {
+      "epoca": 2,
+      "perda_treino": 0.011354747860792226,
+      "f1_validacao": 1.0
+    },
+    {
+      "epoca": 3,
+      "perda_treino": 0.008184241844920464,
+      "f1_validacao": 0.9988901220865705
+    }
+  ],
+  "tempo_treino_s": 174.7
+}
