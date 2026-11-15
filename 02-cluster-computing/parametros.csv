@@ -1,0 +1,19 @@
+parametro,cenario_A_2workers,cenario_B_4workers,unidade,observacao
+quantidade_de_tarefas,1000,1000,tarefas,lote de 1 hora de pico (ver relatorio secao 2)
+tamanho_computacional_minimo,10000,10000,MFlop,
+tamanho_computacional_medio,65000,65000,MFlop,media ponderada visao+LLM+audio
+tamanho_computacional_maximo,120000,120000,MFlop,
+probabilidade_computacao,0.5,0.5,-,campo Probability do gerador Random do iSPD
+comunicacao_minima,0.1,0.1,Mbit,
+comunicacao_media,10,10,Mbit,foto ~2 MB + audio + texto ponderados
+comunicacao_maxima,20,20,Mbit,
+probabilidade_comunicacao,0.5,0.5,-,
+chegada_das_tarefas,0,0,s,todas no instante 0 (lote)
+numero_de_workers,2,4,maquinas,UNICO parametro alterado
+capacidade_por_worker,50000,50000,MFlop/s,~50 GFLOP/s efetivos (GPU de entrada)
+nucleos_por_worker,1,1,nucleos,
+capacidade_do_mestre,50000,50000,MFlop/s,mestre so escalona (nao processa)
+largura_de_banda,1000,1000,Mb/s,Ethernet 1 Gbit/s
+latencia,0.001,0.001,s,1 ms em rede local
+escalonador,Workqueue,Workqueue,-,mesmo nos dois cenarios
+usuarios,user1,user1,-,um unico usuario/proprietario
