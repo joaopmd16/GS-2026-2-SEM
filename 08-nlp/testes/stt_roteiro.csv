@@ -1,0 +1,21 @@
+arquivo,locutor,perfil_locutor,ruido,referencia
+audio_01.wav,V1,preencher: idade/sexo/sotaque,nao,Tem um buraco enorme na Rua das Flores perto do número cento e vinte
+audio_02.wav,V2,preencher,nao,Como eu peço para trocar a lâmpada do poste da minha rua
+audio_03.wav,V3,preencher,nao,A calçada em frente à padaria está toda quebrada
+audio_04.wav,V1,preencher,nao,Quanto tempo demora para tapar um buraco
+audio_05.wav,V2,preencher,nao,Quero saber o andamento do protocolo OC zero zero quinze
+audio_06.wav,V3,preencher,nao,Tem uma árvore com galho encostando no fio
+audio_07.wav,V1,preencher,nao,O bueiro da esquina está entupido e a rua alaga quando chove
+audio_08.wav,V2,preencher,nao,Jogaram entulho no terreno baldio do lado da minha casa
+audio_09.wav,V3,preencher,nao,Sou surda como eu falo com a prefeitura
+audio_10.wav,V1,preencher,nao,Qual é o horário de atendimento do cento e cinquenta e seis
+audio_11.wav,V2,preencher,nao,E onde eu faço isso
+audio_12.wav,V3,preencher,nao,E quanto custa
+audio_13.wav,V1,preencher,nao,Preciso de uma rampa de acessibilidade na esquina da escola
+audio_14.wav,V2,preencher,nao,O poste está piscando a noite inteira
+audio_15.wav,V3,preencher,nao,Posso podar a árvore da minha calçada sozinho
+audio_16.wav,V1,preencher,sim,Quero denunciar descarte irregular de lixo
+audio_17.wav,V2,preencher,sim,A rua do posto de saúde está cheia de buracos
+audio_18.wav,V3,preencher,sim,Como eu apago meus dados da prefeitura
+audio_19.wav,V1,preencher,sim,Tem um fio solto caído na calçada
+audio_20.wav,V2,preencher,sim,Obrigado era só isso

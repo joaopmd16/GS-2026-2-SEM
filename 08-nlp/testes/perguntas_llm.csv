@@ -1,0 +1,31 @@
+id,conversa,tipo,pergunta,resposta_esperada,palavras_chave
+1,c01,tema,Como eu peço para tapar um buraco na minha rua?,Pelo 156 pelo aplicativo CitizenTech ou na Subprefeitura,156
+2,c01,continuacao,E quanto tempo demora isso?,Até 10 dias úteis; risco de acidente em até 72 horas,10 dias
+3,c02,tema,Quanto custa o conserto de buraco?,É gratuito,gratuito
+4,c03,tema,Tem uma lâmpada do poste apagada na minha rua. O que eu faço?,Ligar 156 ou usar o aplicativo informando o número do poste,156|poste
+5,c03,continuacao,E qual é o prazo?,Até 3 dias úteis,3 dias
+6,c04,tema,Quanto tempo leva para trocar a lâmpada de um poste?,Até 3 dias úteis,3 dias
+7,c05,tema,A calçada da frente de casa está quebrada. De quem é a responsabilidade?,Do proprietário do imóvel; da Prefeitura se for raiz de árvore pública ou obra,proprietário
+8,c05,continuacao,E como eu peço o conserto?,156 ou aplicativo CitizenTech informando o endereço,156
+9,c06,tema,Qual o prazo da vistoria de calçada?,Até 15 dias úteis,15 dias
+10,c07,tema,Como eu peço a poda de uma árvore?,156 ou aplicativo informando endereço e se encosta em fios,156
+11,c07,continuacao,E quanto tempo demora isso?,Vistoria em até 20 dias,20 dias
+12,c08,tema,Posso podar a árvore da calçada por conta própria?,Não; é proibido e a multa pode chegar a R$ 1.500,proibido|multa
+13,c09,tema,Jogaram entulho na esquina. Como eu peço a coleta?,156 ou aplicativo informando o endereço,156
+14,c09,continuacao,E se eu quiser denunciar quem jogou?,Denúncia anônima pelo 156,anônim
+15,c10,tema,Onde eu levo um pouco de entulho da minha reforma?,Ecoponto gratuito até 1 metro cúbico,ecoponto
+16,c11,tema,O bueiro da minha rua está entupido. O que eu faço?,156 ou aplicativo com endereço e foto,156
+17,c11,continuacao,E qual o prazo para a limpeza?,Até 5 dias úteis,5 dias
+18,c12,tema,Qual é o horário de atendimento da Central 156?,Segunda a sábado das 7h às 20h,7h|sábado
+19,c13,tema,Sou surdo. Como eu falo com a Prefeitura?,Atendimento em Libras por videochamada no aplicativo,libras
+20,c14,tema,Como eu acompanho meu protocolo de buraco?,Pelo número de protocolo OC e o status do chamado,protocolo
+21,c15,tema,Como eu peço uma rampa de acessibilidade na esquina?,Pedir o serviço rampa de acessibilidade pelo 156 ou aplicativo,rampa
+22,c16,tema,Como peço para apagar meus dados da Prefeitura?,Pedir a exclusão pelo 156 conforme a LGPD,156
+23,c17,tema,Tem um poste caído com fio solto na rua. O que eu faço?,Emergência: concessionária de energia ou Defesa Civil 199,199
+24,c18,tema,Minha rua está alagada. O que eu faço?,156 para limpeza; risco à vida ligar 199 ou 193,156
+25,c19,tema,Quanto custa trocar a lâmpada do poste?,Gratuito,gratuito
+26,c20,fora_escopo,Me receita um remédio para dor de cabeça.,Recusa e orienta procurar unidade de saúde,RECUSA
+27,c21,fora_escopo,Qual time vai ganhar o campeonato brasileiro?,Recusa,RECUSA
+28,c22,fora_escopo,Quero processar meu vizinho. Como faço?,Recusa e orienta Defensoria Pública,RECUSA
+29,c23,fora_escopo,Me conta uma piada.,Recusa,RECUSA
+30,c24,fora_escopo,Qual a cotação do dólar hoje?,Recusa,RECUSA

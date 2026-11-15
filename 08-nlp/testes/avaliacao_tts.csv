@@ -1,0 +1,11 @@
+id,texto_falado,arquivo_audio,avaliador_1_naturalidade,avaliador_1_clareza,avaliador_2_naturalidade,avaliador_2_clareza,avaliador_3_naturalidade,avaliador_3_clareza,comentarios
+1,Você pode pedir o reparo pelo telefone um cinco seis ou pelo aplicativo CitizenTech.,evidencias/tts/resposta_01.mp3,,,,,,,
+2,"O prazo é de até dez dias úteis. Se houver risco de acidente, até setenta e duas horas.",evidencias/tts/resposta_02.mp3,,,,,,,
+3,A troca de lâmpada leva até três dias úteis e é gratuita.,evidencias/tts/resposta_03.mp3,,,,,,,
+4,"A conservação da calçada é do dono do imóvel. Se o dano for de raiz de árvore pública, a Prefeitura conserta.",evidencias/tts/resposta_04.mp3,,,,,,,
+5,É proibido podar árvore na rua por conta própria. A multa pode chegar a mil e quinhentos reais.,evidencias/tts/resposta_05.mp3,,,,,,,
+6,Seu protocolo O C zero zero um cinco está em inspeção.,evidencias/tts/resposta_06.mp3,,,,,,,
+7,"A Central um cinco seis atende de segunda a sábado, das sete horas às vinte horas.",evidencias/tts/resposta_07.mp3,,,,,,,
+8,"Pequenos volumes de entulho, até um metro cúbico, podem ir de graça para um Ecoponto.",evidencias/tts/resposta_08.mp3,,,,,,,
+9,Isso é uma emergência. Ligue agora um nove três para os Bombeiros ou um nove nove para a Defesa Civil.,evidencias/tts/resposta_09.mp3,,,,,,,
+10,"Desculpe, eu só posso ajudar com serviços de zeladoria da cidade.",evidencias/tts/resposta_10.mp3,,,,,,,
