@@ -1,0 +1,13 @@
+{
+  "id": "OC-IOT-0001",
+  "tipo": "alerta_sonoro",
+  "origem": "iot",
+  "descricao": "Som detectado: campainha (OuviAí, celular do usuário)",
+  "confianca": 0.91,
+  "latitude": null,
+  "longitude": null,
+  "bairro": "",
+  "prioridade": "baixa",
+  "status": "aberta",
+  "criado_em": "2026-11-18T14:32:05-03:00"
+}
