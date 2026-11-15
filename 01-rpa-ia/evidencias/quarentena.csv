@@ -1,0 +1,7 @@
+id,tipo,origem,descricao,confianca,latitude,longitude,bairro,prioridade,status,criado_em,motivo_invalido
+XX-9,,chat,Registro com id fora do padrão,0.0,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00,id inválido
+OC-1026,,chat,,0.0,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00,descrição vazia/curta
+OC-1027,,chat,Buraco em coordenada inválida,0.0,123.0,-46.63,Se,,aberta,2026-11-15T10:00:00,coordenada inválida
+OC-1028,,chat,Buraco com data inválida,0.0,-23.55,-46.63,Se,,aberta,ontem de manhã,data inválida
+OC-1003,,chat,Registro duplicado do mesmo protocolo,0.0,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00,id duplicado
+OC-1029,fissura,drone,Origem desconhecida no contrato,0.9,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00,origem inválida

@@ -1,0 +1,41 @@
+C:\Users\gel\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.8.0) or chardet (7.7.0)/charset_normalizer (3.5.2) doesn't match a supported version!
+  warnings.warn(
+2026-11-15 13:54:59,564 | INFO    | ingestao | Validação: 25 válidas, 6 em quarentena
+2026-11-15 13:54:59,698 | INFO    | scraping | Scraping OK (portal_prefeitura.html): 4 tipos mapeados
+2026-11-15 13:54:59,703 | INFO    | pipeline | OC-1001 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,705 | INFO    | pipeline | OC-1002 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,706 | INFO    | pipeline | OC-1003 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,707 | INFO    | pipeline | OC-1004 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,707 | INFO    | pipeline | OC-1005 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,707 | INFO    | pipeline | OC-1006 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,707 | INFO    | pipeline | OC-1007 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,707 | INFO    | pipeline | OC-1008 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,707 | INFO    | pipeline | OC-1009 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,712 | INFO    | pipeline | OC-1010 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:59,713 | INFO    | pipeline | OC-1011 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:59,713 | INFO    | pipeline | OC-1012 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,713 | INFO    | pipeline | OC-1013 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,720 | INFO    | pipeline | OC-1014 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:59,721 | INFO    | pipeline | OC-1015 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,726 | INFO    | pipeline | OC-1016 -> revisão humana (confiança 0.45)
+2026-11-15 13:54:59,727 | INFO    | pipeline | OC-1017 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,730 | INFO    | pipeline | OC-1018 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,731 | INFO    | pipeline | OC-1019 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,732 | INFO    | pipeline | OC-1020 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,732 | INFO    | pipeline | OC-1021 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,732 | INFO    | pipeline | OC-1022 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,732 | INFO    | pipeline | OC-1023 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,732 | INFO    | pipeline | OC-1024 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:59,739 | INFO    | pipeline | OC-1025 já encaminhada anteriormente — não reenvia (idempotência)
+2026-11-15 13:54:59,741 | INFO    | pipeline | Fim: {'inicio': '2026-11-15T13:54:59', 'lidas': 31, 'validas': 25, 'quarentena': 6, 'encaminhadas': 0, 'revisao': 5, 'ja_enviadas': 20, 'falhas': 0, 'fonte_destinos': 'portal_prefeitura.html', 'fim': '2026-11-15T13:54:59'}
+
+=== RELATÓRIO DA EXECUÇÃO ===
+          lidas: 31
+        validas: 25
+     quarentena: 6
+   encaminhadas: 0
+        revisao: 5
+    ja_enviadas: 20
+         falhas: 0
+ fonte_destinos: portal_prefeitura.html
+Arquivos em: C:\Users\gel\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\4d8f15c8-25ea-46e1-a797-6616e4fb2cc0\ac7e48d2-3ed1-4d06-9eab-a0f82c493bc4\scratch-2026-11-15-bcf74b\.claude\worktrees\gs-01-rpa-7fcffe\01-rpa-ia\saida
