@@ -1,0 +1,18 @@
+8 ocorrências, 256 combinações possíveis, capacidade 6.0 h
+
+[Clássico exato] OC-0001, OC-0003, OC-0005, OC-0007 | valor=8.32 horas=6.5 custo=-7.599   (2.2 ms)
+[Clássico guloso] OC-0001, OC-0003, OC-0004, OC-0007 | valor=7.54 horas=6.0 custo=-5.843
+
+[QAOA simulado p=3] tempo de simulação 2.5 s
+  P(ótimo) = 0.011  (amostragem uniforme = 0.004)
+  #1 p=0.016  OC-0001, OC-0003, OC-0007 | valor=6.88 horas=5.0 custo=-6.706
+  #2 p=0.016  OC-0001, OC-0006, OC-0007 | valor=7.18 horas=5.5 custo=-6.121
+  #3 p=0.016  OC-0003, OC-0006, OC-0007 | valor=7.00 horas=5.5 custo=-5.957
+  #4 p=0.015  OC-0001, OC-0006 | valor=5.58 horas=4.5 custo=-5.127
+  #5 p=0.014  OC-0001, OC-0003, OC-0005 | valor=6.72 horas=5.5 custo=-6.587
+
+Leitura: em 8 variáveis o clássico vence fácil. O ponto é o crescimento 2^N:
+  N=  8: 2^N = 2.56e+02 combinações
+  N= 30: 2^N = 1.07e+09 combinações
+  N= 60: 2^N = 1.15e+18 combinações
+  N=300: 2^N = 2.04e+90 combinações
