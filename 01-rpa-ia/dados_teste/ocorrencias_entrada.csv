@@ -1,0 +1,32 @@
+id,tipo,origem,descricao,confianca,latitude,longitude,bairro,prioridade,status,criado_em
+OC-1001,buraco,visao,Buraco na via detectado pela câmera,0.91,-23.5505,-46.6333,Se,,aberta,2026-11-10T09:00:00
+OC-1002,fissura,visao,Fissura em muro de contenção,0.78,-23.5614,-46.6559,Consolacao,,aberta,2026-11-11T14:30:00
+OC-1003,,chat,Tem um buraco enorme na frente da escola e as crianças passam ali,0,-23.5880,-46.6320,Vila Mariana,,aberta,2026-11-12T08:10:00
+OC-1004,,chat,Rachadura grande na parede do viaduto perto do terminal,0,-23.5431,-46.6290,Bras,,aberta,2026-11-12T10:00:00
+OC-1005,,iot,Sirene disparada na rua por mais de 10 minutos,0.82,-23.5600,-46.6400,Liberdade,,aberta,2026-11-12T22:15:00
+OC-1006,,chat,O asfalto afundou e meu pneu furou. Meu telefone é (11) 98765-4321,0,-23.6000,-46.6600,Saude,,aberta,2026-11-13T07:45:00
+OC-1007,,chat,Calçada com trinca pequena perto da padaria,0,-23.5700,-46.6500,Paraiso,,aberta,2026-11-13T09:00:00
+OC-1008,,chat,Cadeirante não consegue passar: buraco na calçada da rua Augusta,0,-23.5530,-46.6580,Consolacao,,aberta,2026-11-13T11:20:00
+OC-1009,,iot,Barulho de estrondo forte vindo do prédio vizinho,0.70,-23.5450,-46.6350,Republica,,aberta,2026-11-13T23:50:00
+OC-1010,,chat,Poste com lâmpada queimada há uma semana,0,-23.5800,-46.6450,Aclimacao,,aberta,2026-11-14T18:00:00
+OC-1011,,chat,Árvore caiu bloqueando a rua depois da chuva,0,-23.5900,-46.6800,Pinheiros,,aberta,2026-11-14T06:30:00
+OC-1012,,chat,Muro rachado com risco de desabar sobre a calçada. CPF 123.456.789-09,0,-23.5650,-46.6700,Pinheiros,,aberta,2026-11-14T08:00:00
+OC-1013,,chat,Cratera na avenida principal causou acidente com moto,0,-23.5300,-46.6200,Santana,,aberta,2026-11-14T12:00:00
+OC-1014,,chat,Lixo acumulado na praça há dias,0,-23.5550,-46.6150,Mooca,,aberta,2026-11-14T15:00:00
+OC-1015,,iot,Alarme de incêndio tocando no prédio e moradora surda não percebeu,0.88,-23.5480,-46.6380,Bela Vista,,aberta,2026-11-14T20:00:00
+OC-1016,buraco,visao,Imagem enviada pelo app,0.45,-23.5620,-46.6610,Jardins,,aberta,2026-11-15T07:00:00
+OC-1017,,chat,Pequeno buraco superficial no estacionamento,0,-23.5710,-46.6420,Paraiso,,aberta,2026-11-15T08:00:00
+OC-1018,,chat,Fissura fina no pilar da passarela,0,-23.5390,-46.6250,Bras,,aberta,2026-11-15T09:30:00
+OC-1019,,chat,Vazamento de água na rua faz um som de chiado,0,-23.5820,-46.6380,Vila Mariana,,aberta,2026-11-15T10:00:00
+OC-1020,,chat,Via esburacada perto do hospital dificulta ambulâncias,0,-23.5560,-46.6690,Cerqueira Cesar,,aberta,2026-11-15T11:00:00
+OC-1021,,rpa,Buraco na rua da creche. Contato joao.silva@email.com,0,-23.5950,-46.6550,Saude,,aberta,2026-11-15T12:00:00
+OC-1022,,chat,Barulho alto de obra de madrugada,0,-23.5470,-46.6420,Republica,,aberta,2026-11-15T13:00:00
+OC-1023,,chat,Valeta aberta pela companhia de água sem sinalização,0,-23.5750,-46.6600,Pinheiros,,aberta,2026-11-15T14:00:00
+OC-1024,,chat,Placa de trânsito torta na esquina,0,-23.5520,-46.6300,Se,,aberta,2026-11-15T15:00:00
+OC-1025,,chat,Trinca no muro da escola estadual,0,-23.5850,-46.6500,Vila Mariana,,aberta,2026-11-15T16:00:00
+XX-9,,chat,Registro com id fora do padrão,0,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00
+OC-1026,,chat,,0,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00
+OC-1027,,chat,Buraco em coordenada inválida,0,123.0,-46.63,Se,,aberta,2026-11-15T10:00:00
+OC-1028,,chat,Buraco com data inválida,0,-23.55,-46.63,Se,,aberta,ontem de manhã
+OC-1003,,chat,Registro duplicado do mesmo protocolo,0,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00
+OC-1029,fissura,drone,Origem desconhecida no contrato,0.9,-23.55,-46.63,Se,,aberta,2026-11-15T10:00:00

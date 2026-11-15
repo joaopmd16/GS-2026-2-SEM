@@ -1,0 +1,114 @@
+{
+  "inicio": "2026-11-15T13:55:10",
+  "lidas": 31,
+  "validas": 25,
+  "quarentena": 6,
+  "encaminhadas": 20,
+  "revisao": 5,
+  "ja_enviadas": 0,
+  "falhas": 0,
+  "fonte_destinos": "portal_prefeitura.html",
+  "fim": "2026-11-15T13:55:11",
+  "por_bairro": [
+    [
+      "Paraiso",
+      "baixa",
+      2
+    ],
+    [
+      "Pinheiros",
+      "alta",
+      2
+    ],
+    [
+      "Republica",
+      "media",
+      2
+    ],
+    [
+      "Saude",
+      "media",
+      2
+    ],
+    [
+      "Vila Mariana",
+      "alta",
+      2
+    ],
+    [
+      "Aclimacao",
+      "baixa",
+      1
+    ],
+    [
+      "Bela Vista",
+      "media",
+      1
+    ],
+    [
+      "Bras",
+      "baixa",
+      1
+    ],
+    [
+      "Bras",
+      "media",
+      1
+    ],
+    [
+      "Cerqueira Cesar",
+      "alta",
+      1
+    ],
+    [
+      "Consolacao",
+      "alta",
+      1
+    ],
+    [
+      "Consolacao",
+      "media",
+      1
+    ],
+    [
+      "Jardins",
+      "media",
+      1
+    ],
+    [
+      "Liberdade",
+      "media",
+      1
+    ],
+    [
+      "Mooca",
+      "baixa",
+      1
+    ],
+    [
+      "Pinheiros",
+      "media",
+      1
+    ],
+    [
+      "Santana",
+      "alta",
+      1
+    ],
+    [
+      "Se",
+      "baixa",
+      1
+    ],
+    [
+      "Se",
+      "media",
+      1
+    ],
+    [
+      "Vila Mariana",
+      "media",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+C:\Users\gel\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.8.0) or chardet (7.7.0)/charset_normalizer (3.5.2) doesn't match a supported version!
+  warnings.warn(
+2026-11-15 13:54:57,460 | INFO    | ingestao | Validação: 25 válidas, 6 em quarentena
+2026-11-15 13:54:57,597 | INFO    | scraping | Scraping OK (portal_prefeitura.html): 4 tipos mapeados
+2026-11-15 13:54:57,693 | INFO    | api | API de feriados OK: 14 feriados em 2026
+2026-11-15 13:54:57,726 | INFO    | pipeline | OC-1001 -> Secretaria de Obras — Tapa-buraco [buraco, media] prazo 2026-11-17
+2026-11-15 13:54:57,726 | INFO    | pipeline | OC-1002 -> Defesa Civil — Vistoria Estrutural [fissura, media] prazo 2026-11-16
+2026-11-15 13:54:57,737 | INFO    | pipeline | OC-1003 -> Secretaria de Obras — Tapa-buraco [buraco, alta] prazo 2026-11-16
+2026-11-15 13:54:57,737 | INFO    | pipeline | OC-1004 -> Defesa Civil — Vistoria Estrutural [fissura, media] prazo 2026-11-17
+2026-11-15 13:54:57,753 | INFO    | pipeline | OC-1005 -> Guarda Civil — Central de Alertas [alerta_sonoro, media] prazo 2026-11-13
+2026-11-15 13:54:57,762 | INFO    | pipeline | OC-1006 -> Secretaria de Obras — Tapa-buraco [buraco, media] prazo 2026-11-23
+2026-11-15 13:54:57,768 | INFO    | pipeline | OC-1007 -> Defesa Civil — Vistoria Estrutural [fissura, baixa] prazo 2026-11-18
+2026-11-15 13:54:57,771 | INFO    | pipeline | OC-1008 -> Secretaria de Obras — Tapa-buraco [buraco, alta] prazo 2026-11-17
+2026-11-15 13:54:57,771 | INFO    | pipeline | OC-1009 -> Guarda Civil — Central de Alertas [alerta_sonoro, media] prazo 2026-11-16
+2026-11-15 13:54:57,786 | INFO    | pipeline | OC-1010 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:57,786 | INFO    | pipeline | OC-1011 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:57,786 | INFO    | pipeline | OC-1012 -> Defesa Civil — Vistoria Estrutural [fissura, alta] prazo 2026-11-16
+2026-11-15 13:54:57,802 | INFO    | pipeline | OC-1013 -> Secretaria de Obras — Tapa-buraco [buraco, alta] prazo 2026-11-17
+2026-11-15 13:54:57,802 | INFO    | pipeline | OC-1014 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:57,802 | INFO    | pipeline | OC-1015 -> Guarda Civil — Central de Alertas [alerta_sonoro, media] prazo 2026-11-16
+2026-11-15 13:54:57,802 | INFO    | pipeline | OC-1016 -> revisão humana (confiança 0.45)
+2026-11-15 13:54:57,818 | INFO    | pipeline | OC-1017 -> Secretaria de Obras — Tapa-buraco [buraco, baixa] prazo 2026-11-23
+2026-11-15 13:54:57,824 | INFO    | pipeline | OC-1018 -> Defesa Civil — Vistoria Estrutural [fissura, baixa] prazo 2026-11-18
+2026-11-15 13:54:57,830 | INFO    | pipeline | OC-1019 -> Guarda Civil — Central de Alertas [alerta_sonoro, media] prazo 2026-11-16
+2026-11-15 13:54:57,838 | INFO    | pipeline | OC-1020 -> Secretaria de Obras — Tapa-buraco [buraco, alta] prazo 2026-11-17
+2026-11-15 13:54:57,838 | INFO    | pipeline | OC-1021 -> Secretaria de Obras — Tapa-buraco [buraco, media] prazo 2026-11-23
+2026-11-15 13:54:57,838 | INFO    | pipeline | OC-1022 -> Guarda Civil — Central de Alertas [alerta_sonoro, media] prazo 2026-11-16
+2026-11-15 13:54:57,853 | INFO    | pipeline | OC-1023 -> Secretaria de Obras — Tapa-buraco [buraco, media] prazo 2026-11-23
+2026-11-15 13:54:57,853 | INFO    | pipeline | OC-1024 -> revisão humana (confiança 0.30)
+2026-11-15 13:54:57,853 | INFO    | pipeline | OC-1025 -> Defesa Civil — Vistoria Estrutural [fissura, alta] prazo 2026-11-16
+2026-11-15 13:54:57,874 | INFO    | pipeline | Fim: {'inicio': '2026-11-15T13:54:57', 'lidas': 31, 'validas': 25, 'quarentena': 6, 'encaminhadas': 20, 'revisao': 5, 'ja_enviadas': 0, 'falhas': 0, 'fonte_destinos': 'portal_prefeitura.html', 'fim': '2026-11-15T13:54:57'}
+
+=== RELATÓRIO DA EXECUÇÃO ===
+          lidas: 31
+        validas: 25
+     quarentena: 6
+   encaminhadas: 20
+        revisao: 5
+    ja_enviadas: 0
+         falhas: 0
+ fonte_destinos: portal_prefeitura.html
+Arquivos em: C:\Users\gel\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\4d8f15c8-25ea-46e1-a797-6616e4fb2cc0\ac7e48d2-3ed1-4d06-9eab-a0f82c493bc4\scratch-2026-11-15-bcf74b\.claude\worktrees\gs-01-rpa-7fcffe\01-rpa-ia\saida
